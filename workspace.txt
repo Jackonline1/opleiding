@@ -1,0 +1,4 @@
+1. installeren van Github
+2. Installeren van Scout app
+3. Installeren van editors
+4. 
